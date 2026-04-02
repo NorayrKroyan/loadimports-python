@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.log
+export_archive/
+payload_samples/
+images/
